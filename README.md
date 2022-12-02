@@ -2,4 +2,4 @@
 Unfinished Weather Application
 
 
-![image](https://user-images.githubusercontent.com/115619988/205103655-29e9bb1c-19d0-4013-89b3-0a948603f402.png)
+![image](https://user-images.githubusercontent.com/115619988/205284404-3358ac09-682e-4510-aa60-ea35d0a99731.png)
